@@ -25,21 +25,21 @@ Actualmente, formo parte de un proyecto de investigación aplicada en realidad a
 
 🔍 Habilidades Adicionales
 
-Mantenimiento y Soporte Técnico en computadoras.
+- Mantenimiento y Soporte Técnico en computadoras.
 
-Diseño UI/UX con Figma.
+- Diseño UI/UX con Figma.
 
-Redes LAN: Configuración y mantenimiento para empresas pequeñas.
+- Redes LAN: Configuración y mantenimiento para empresas pequeñas.
 
-Robótica y Electrónica: Conocimientos profundos en sistemas y herramientas electrónicas.
+- Robótica y Electrónica: Conocimientos profundos en sistemas y herramientas electrónicas.
 
 🎯 Objetivos Futuros
 
-Reforzar habilidades en Python, Laravel y Flutter mediante proyectos prácticos.
+- Reforzar habilidades en Python, Laravel y Flutter mediante proyectos prácticos.
 
-Expandir conocimientos en ciencia de datos y machine learning.
+- Expandir conocimientos en ciencia de datos y machine learning.
 
-Colaborar en proyectos de código abierto que tengan un impacto significativo.
+- Colaborar en proyectos de código abierto que tengan un impacto significativo.
 
 📫 Cómo contactarme:
 
