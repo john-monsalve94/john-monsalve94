@@ -43,7 +43,7 @@ Colaborar en proyectos de código abierto que tengan un impacto significativo.
 
 📫 Cómo contactarme:
 
-LinkedIn
+- [LinkedIn](https://www.linkedin.com/in/john-monsalve-785132214/)
 ------------------------------------------------
 
 ¡Aprendamos sin parar, juntos podemos innovar! 🚀
