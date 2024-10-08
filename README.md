@@ -1,5 +1,5 @@
 Hola! 👋, Soy John Monsalve
-
+--------------------------------------------
 Soy un Desarrollador de Software Junior en constante crecimiento, con experiencia en diversas tecnologías y frameworks. Siempre busco nuevas oportunidades para aplicar mis conocimientos y resolver problemas reales. Mi objetivo es crear soluciones tecnológicas que generen un impacto positivo y, al mismo tiempo, seguir desarrollando mis habilidades.
 
 💻 Tecnologías con las que trabajo:
@@ -44,9 +44,11 @@ Colaborar en proyectos de código abierto que tengan un impacto significativo.
 📫 Cómo contactarme:
 
 LinkedIn
+------------------------------------------------
 
 ¡Aprendamos sin parar, juntos podemos innovar! 🚀
 
+---------------------------------------------------
 
 
 
